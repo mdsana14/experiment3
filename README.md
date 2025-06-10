@@ -21,5 +21,6 @@ GitHub Repo:
 🔗 https://github.com/mdsana14/experiment3.git
 
 Live Output:
-🌐 https://your-live-link.com/project3-validation-js
+🌐 Your site is live at https://mdsana14.github.io/experiment3/
+
 
